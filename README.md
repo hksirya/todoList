@@ -3,11 +3,12 @@
 Do any of the following seem familiar?
 
 - You often feel completely overwhelmed with the amount of work you’ve got to do?
-- You sometimes forget to do things that are important
-- People have to chase you to get things done
-- You find it a struggle to keep to deadlines 
+- You sometimes forget to do things that are important ?
+- People have to chase you to get things done ?
+- You find it a struggle to keep to deadlines ?
 
 The simple solution to all of them is preparing a Todo-List .
+<br/>
 A todo-list :
 
 - Increases productivity
@@ -15,7 +16,11 @@ A todo-list :
 - Helps with motivation
 
 # Technology Used
-Ejs , ExpressJs , NodeJs , MongoDB , Mongoose, MongoAtlas
+- BackEnd : ExpressJs , NodeJs 
+- Database : MongoDB , Mongoose, MongoAtlas
+- Javascript template : Ejs  
+<br/>
+
 - Ejs is used as a template for Express js
 - Express is used as a Backend Technology 
 - MongoDB is used to save the database entered by the users.
